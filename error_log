@@ -1,0 +1,9 @@
+[12-Oct-2020 13:38:52 UTC] PHP Notice:  Undefined index: name in /home/eecj7cmjodhp/public_html/index.php on line 2
+[12-Oct-2020 13:38:52 UTC] PHP Notice:  Undefined index: email in /home/eecj7cmjodhp/public_html/index.php on line 3
+[12-Oct-2020 13:38:52 UTC] PHP Notice:  Undefined index: subject in /home/eecj7cmjodhp/public_html/index.php on line 4
+[12-Oct-2020 13:38:52 UTC] PHP Notice:  Undefined index: message in /home/eecj7cmjodhp/public_html/index.php on line 5
+[12-Oct-2020 13:39:51 UTC] PHP Notice:  Undefined index: name in /home/eecj7cmjodhp/public_html/index.php on line 2
+[12-Oct-2020 13:39:51 UTC] PHP Notice:  Undefined index: email in /home/eecj7cmjodhp/public_html/index.php on line 3
+[12-Oct-2020 13:39:51 UTC] PHP Notice:  Undefined index: subject in /home/eecj7cmjodhp/public_html/index.php on line 4
+[12-Oct-2020 13:39:51 UTC] PHP Notice:  Undefined index: message in /home/eecj7cmjodhp/public_html/index.php on line 5
+[13-Oct-2020 05:49:55 UTC] PHP Notice:  Undefined index: subject in /home/eecj7cmjodhp/public_html/contact-form-handler.php on line 4
